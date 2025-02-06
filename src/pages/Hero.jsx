@@ -64,7 +64,7 @@ const Hero = () => {
           <img src={emailIcon} alt="EmailIcon" />
           <div className="flex flex-col justify-center">
             <h1>Send us an Email</h1>
-            <p>olimjonovozodbek16@gmail.com</p>
+            <p>sirojbekmuxtorov9@gmail.com</p>
           </div>
         </div>
       </div>
